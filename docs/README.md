@@ -13,6 +13,6 @@ features:
   - title: Courage
     details: 请赐我勇气, 去做我能改变的事;
   - title: Wisdom
-    details: 请赐我智慧, 去分辨两者的不同;
+    details: ;
     footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
