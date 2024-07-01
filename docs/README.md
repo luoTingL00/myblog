@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: welcome my blog
-tagline: 想我所想，尽我所能;
+tagline: 目标明确，尽己所能;
 actions:
   - text: 查看最近更新
     link: /frontEnd/vue/workApply.md
